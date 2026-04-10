@@ -1,0 +1,6 @@
+[package]
+name = "mini_project_ma_todo_list"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

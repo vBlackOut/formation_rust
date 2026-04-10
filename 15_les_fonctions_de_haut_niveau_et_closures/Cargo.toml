@@ -1,0 +1,6 @@
+[package]
+name = "les_fonctions_de_haut_niveau_et_closures"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
